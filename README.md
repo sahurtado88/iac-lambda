@@ -74,6 +74,7 @@ mkdir -p .github/workflows
 
 # Configurar terraform.tfvars
 cp terraform.tfvars.example terraform.tfvars
+
 # Editar terraform.tfvars con tus valores
 
 # Si usas S3 backend, descomentar en main.tf:
