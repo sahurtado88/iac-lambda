@@ -91,6 +91,7 @@ git commit -m "Initial Terraform infrastructure setup"
 git branch -M main
 git remote add origin https://github.com/tu-usuario/lambda-iac-repo.git
 git push -u origin main
+
 6. Primer Deployment
 Paso 1: Deploy de Infraestructura (crear ECR)
 cd lambda-iac-repo
